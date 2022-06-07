@@ -117,3 +117,9 @@ print("*****************")
 l6 = ['a', 'b', 'c', 'b', 'b']
 print(l6)
 print(l6.count('b'))
+
+print("*******************")
+l7 = [1, 4, 5, 3, 23, 54, 4, 21]
+print(l7)
+print(l7.sort())
+sorted = l7.copy()
