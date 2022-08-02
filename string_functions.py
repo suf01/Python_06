@@ -1,3 +1,15 @@
+```
+string methods
+str.upper()
+str.lower()
+str.isupper()
+str.islower()
+str.replace()
+str.split()
+str.replace()
+str1.join(str2)
+str1.find(str2)
+```
 #Repalce
 
 str = "abc def"
